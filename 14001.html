@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<!--Página con informacion del estándar 14001-->
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ISO 14001:2015 Sistema de Gestión Ambiental</title>
+    <link rel="stylesheet" href="css/styleAmbiental.css">
+    <link rel="icon" type="image/png" href="img/logo%20itcg.png">
+</head>
+
+<body>
+    <!--Header TNM-->
+    <header>
+        <img id="banner" src="img/banner.jpg">
+    </header>
+    <div id=cuerpo>
+
+        <!--Menú de navegación-->
+        <nav class="margin-bottom">
+            <p class="nav-text">Custom menu text</p>
+            <div class="top-nav s-12 l-10">
+                <ul>
+                    <li>
+                        <a href="index.html">Sistemas de Gestión</a>
+                        <ul>
+                            <li><a href="9001.html">Calidad</a></li>
+                            <li><a href="14001.html">Ambiental</a></li>
+                            <li><a href="50001.html">Energía</a></li>
+                            <li><a href="45001.html">Salud y Seguridad</a></li>
+                            <li><a href="26000.html">Responsabilidad Social</a></li>
+                            <li><a href="igualdad.html">Igualdad y no discriminación</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="mostrarNoticias.php">Noticias</a></li>
+                    <li>
+                        <a>Documentación</a>
+                        <ul>
+                            <form name="igualdad" method='POST' action='showDocumentacion.php'>
+                                <li><button type="submit" name="submit" value="submit" id="boton"><a>Interna</a></button></li>
+                                <input type="hidden" name="carpeta" value="docAmbiental">
+                                <input type="hidden" name="seccion" value="Internos de Ambiental">
+                            </form>
+                            <li><a href="https://www.tecnm.mx/Enconstruccion.aspx">TecNM</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="FormSolicitud.php">Solicitudes</a></li>
+                    <li><a href="login.html">Administrador</a></li>
+                </ul>
+            </div>
+            <div class="hide-s hide-m l-2">
+                <i class="icon-facebook_circle icon2x right padding"></i>
+            </div>
+        </nav>
+
+        <!--Banner decorativo alusivo al estándar-->
+        <header>
+            <img id="banner" src="img/banner14001.jpg">
+        </header>
+
+        <section>
+            <!--Objetivos, introducción al estándar-->
+            <h4> Sistema de Gestión Ambiental </h4>
+            <div id="objetivo">
+                <h5 class="page-header"> Objetivo Ambiental </h5>
+                <p> Fomentar una cultura de cuidado del medio ambiente en el personal, estudiantes y partes interesadas. </p>
+
+                <h5 class="page-header"> Política Ambiental del Tecnológico Nacional de México </h5>
+                <p> El TecNM establece el compromiso de implementar y orientar todos sus procesos estratégicos y actividades del proceso educativo, hacia la Calidad del Servicio Educativo y respeto del medio ambiente, dando cumplimiento a los requisitos del
+                    estudiante y partes interesadas, legislación ambiental aplicable y otros requisitos ambientales que se suscriban así como promover en su personal, estudiantes y partes interesadas la prevención de la contaminación y el uso racional
+                    de los recursos; mediante la implementación, operación y mejora continua de un Sistema de Gestión de Calidad conforme a la Norma ISO 9001:2015/NMX-CC-9001-IMNC-2015 y un Sistema de Gestión Ambiental conforme a la Norma ISO 14001:2015/NMX-SAAIMNC-14001-2015,
+                    coadyuvando a la conformación de una sociedad justa y humana con una perspectiva de sustentabilidad y ser uno de los pilares fundamentales del desarrollo sostenido y sustentable. </p>
+
+                <h5 class="page-header"> Certificado </h5>
+                <img id="certificado" src="img/Certificado%2001.4%20(SGA).jpg">
+
+                <h7 class="page-header"> Coordinador General del Programa de Gestión Ambiental </h7>
+                <iframe src="infoAmbiental.php" name="lista" scrolling="no" border="0" frameborder="0" width="100%" height="40%"> 
+                </iframe>
+
+            </div>
+
+            <!--Panel de metas y alcance del estándar. -->
+            <div id="metas">
+                <h6> Metas Ambientales </h6>
+                <ul>
+                    <li type="circle"> 1.- Uso racional y eficiente del agua</li>
+                    <li type="circle"> 2.- Uso racional y eficiente de energía eléctrica</li>
+                    <li type="circle"> 3.- Manejo integral de residuos sólidos urbanos</li>
+                    <li type="circle"> 4.- Manejo integral de residuos peligrosos</li>
+                </ul>
+
+                <h6> Alcance</h6>
+                <p id="alcance">El alcance del Sistema de Gestión Ambiental (SGA) aplica a todas las actividades, procesos, productos y servicios del Proceso Educativo que se realizan en el TecNM
+                </p>
+
+                <!--h6 id="SGA"><a href="https://www.tecnm.mx/sga">Sistema de Gestión Ambiental en DGEST </a></h6-->
+
+
+
+
+
+            </div>
+        </section>
+
+    </div>
+
+    <!--Pie de página-->
+    <footer>
+        <!--Panel logo SEP-->
+        <div id="pie">
+            <div id="img_pie">
+                <img id="sep" src="img/SEP.png" title="DGEST">
+            </div>
+
+            <!--Panel información de contacto-->
+            <div id="texto_pie">
+                <h1>Tecnológico Nacional de México</h1>
+                <h1>Instituto Tecnológico de Ciudad Guzmán</h1>
+                <h2>Avenida Tecnológico #100</h2>
+                <h2>Ciudad Guzmán, Mpio. de Zapotlán el Grande, Jalisco, México</h2>
+                <h3>Teléfono: 01 (341) 575 20 50</h3>
+                <h3>Fax: 01 (341) 575 20 74</h3>
+            </div>
+        </div>
+    </footer>
+</body>
+
+</html>

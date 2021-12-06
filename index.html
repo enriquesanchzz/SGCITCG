@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<!-- Pagina principal con los iconos de los estándares-->
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Estándares de Calidad del ITCG </title>
+    <link rel="stylesheet" href="css/styleEstandares.css">
+    <link rel="icon" type="image/png" href="img/logo%20itcg.png">
+</head>
+
+<body>
+    <!-- Banner del TNM-->
+    <header>
+        <img id="banner" src="img/banner.jpg">
+    </header>
+    <div id=cuerpo>
+        <!-- Menu de navegación-->
+        <nav class="margin-bottom">
+            <p class="nav-text">Custom menu text</p>
+            <div class="top-nav s-12 l-10">
+                <ul>
+                    <li>
+                        <a href="index.html">Sistemas de Gestión</a>
+                        <ul>
+                            <li><a href="9001.html">Calidad</a></li>
+                            <li><a href="14001.html">Ambiental</a></li>
+                            <li><a href="50001.html">Energía</a></li>
+                            <li><a href="45001.html">Salud y Seguridad</a></li>
+                            <li><a href="26000.html">Responsabilidad Social</a></li>
+                            <li><a href="igualdad.html">Igualdad y no discriminación</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="mostrarNoticias.php">Noticias</a></li>
+                    <li><a href="FormSolicitud.php">Solicitudes</a></li>
+                    <li><a href="login.html">Administrador</a></li>
+                </ul>
+            </div>
+            <div class="hide-s hide-m l-2">
+                <i class="icon-facebook_circle icon2x right padding"></i>
+            </div>
+        </nav>
+
+        <!--Seccion con los iconos de los estandares-->
+        <section>
+            <!--Primer columna de 3-->
+            <div class="row">
+                <div class="column">
+                    <a href="9001.html"><img id="std" src="img/GESTION-DE-CALIDAD.png"></a>
+                    <h4><a href="9001.html"> Sistema de Gestión de la Calidad </a></h4>
+                </div>
+                <div class="column">
+                    <a href="14001.html"><img id="std" src="img/14001.png"></a>
+                    <h4><a href="14001.html"> Sistema de Gestión Ambiental </a></h4>
+                </div>
+                <div class="column">
+                    <a href="50001.html"><img id="std" src="img/GESTION-DE-LA-ENERGIA.png"></a>
+                    <h4><a href="50001.html"> Sistema de Gestión de Energía </a></h4>
+                </div>
+
+            </div>
+            <!--Segunda columna de 3-->
+            <div class="row">
+                <div class="column">
+                    <a href="45001.html"><img id="std" src="img/logo%2045001.png"></a>
+                    <h4><a href="45001.html"> Sistema de Gestión de la Salud y Seguridad Ocupacional </a></h4>
+                </div>
+                <div class="column">
+                    <a href="26000.html"><img id="std" src="img/onu.png"></a>
+                    <h4><a href="26000.html"> Sistema de Gestión de Responsabilidad Social </a></h4>
+                </div>
+                <div class="column">
+                    <a href="igualdad.html"><img id="std" src="img/no%20discriminacion%20logo.png"></a>
+                    <h4><a href="igualdad.html"> Sistema de Gestión de Igualdad y No Discriminación </a></h4>
+                </div>
+            </div>
+
+            <!-- Tercera columna centrada-->
+            <div class="row">
+                <div class="column">
+
+                </div>
+                <div class="column">
+                    <form name="conOrg" method='POST' action='showDocumentacion.php'>
+                        <button type="submit" name="std" value="docConoOrg"><img id="std" src="img/logo%20itcg.png"></button>
+                        <h4>Documentación de Conocimiento Organizacional</h4>
+                        <input type="hidden" name="carpeta" value="docOrganizacional">
+                        <input type="hidden" name="seccion" value="Conocimiento Organizacional">
+                    </form>
+                </div>
+                <div class="column">
+
+                </div>
+
+            </div>
+        </section>
+
+    </div>
+
+    <!--Pie de pagina-->
+    <footer>
+        <!--Panel logo SEP-->
+        <div id="pie">
+            <div id="img_pie">
+                <img id="sep" src="img/SEP.png" title="DGEST">
+            </div>
+
+            <!--Panel informacion de contacto-->
+            <div id="texto_pie">
+                <h1>Tecnológico Nacional de México</h1>
+                <h1>Instituto Tecnológico de Ciudad Guzmán</h1>
+                <h2>Avenida Tecnológico #100</h2>
+                <h2>Ciudad Guzmán, Mpio. de Zapotlán el Grande, Jalisco, México</h2>
+                <h3>Teléfono: 01 (341) 575 20 50</h3>
+                <h3>Fax: 01 (341) 575 20 74</h3>
+            </div>
+        </div>
+    </footer>
+</body>
+
+</html>

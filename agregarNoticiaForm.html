@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<!--Página de para el administrador-->
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Administrador </title>
+    <link rel="stylesheet" href="css/styleAdmiNoticias.css">
+</head>
+
+<body>
+    <section>
+        <center>
+            <br>
+            <table style="width:97%; height: 40px;" border="0" cellspacing="1" cellpadding="10">
+                <tr style="text-align: center;">
+                    <td style="background-color: #c7bf8f">
+                        <h4>Agregar Noticia </h4>
+                    </td>
+                </tr>
+            </table>
+            <form method="post" action="agregarNoticia.php" enctype="multipart/form-data" id="forma">
+                <h1>Título de la Noticia (Máximo de 50 carácteres)</h1>
+                <input type="text" REQUIRED name="titulo">
+                <br>
+                <h1>Cuerpo de la Noticia (Máximo de 4000 carácteres )</h1>
+                <br>
+                <textarea name="cuerpo" REQUIRED id="cuerpo" cols="70" rows="20" form="forma"></textarea>
+                <br>
+                <h1>Adjuntar Imagén</h1>
+                <br>
+                <input type="file" name="imagen">
+                <br>
+                <br>
+                <h1>Adjuntar Archivo</h1>
+                <br>
+                <input type="file" name="archivo" id="archivo" accept="application/pdf">
+                <br><br>
+                <input type="submit" name="agregar" value="Agregar Noticia">
+                <br><br>
+            </form>
+        </center>
+    </section>
+</body>
+
+</html>

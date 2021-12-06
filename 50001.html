@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<!--Página con información sobre el estándar 50001-->
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> 50001:2011 Norma de sistema de gestión energética</title>
+    <link rel="stylesheet" href="css/styleEnergia.css">
+    <link rel="icon" type="image/png" href="img/logo%20itcg.png">
+</head>
+
+<body>
+    <!--Banner TNM-->
+    <header>
+        <img id="banner" src="img/banner.jpg">
+    </header>
+    <div id=cuerpo>
+
+        <!--Menú de navegación-->
+        <nav class="margin-bottom">
+            <p class="nav-text">Custom menu text</p>
+            <div class="top-nav s-12 l-10">
+                <ul>
+                    <li>
+                        <a href="index.html">Sistemas de Gestión</a>
+                        <ul>
+                            <li><a href="9001.html">Calidad</a></li>
+                            <li><a href="14001.html">Ambiental</a></li>
+                            <li><a href="50001.html">Energía</a></li>
+                            <li><a href="45001.html">Salud y Seguridad</a></li>
+                            <li><a href="26000.html">Responsabilidad Social</a></li>
+                            <li><a href="igualdad.html">Igualdad y no discriminación</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="mostrarNoticias.php">Noticias</a></li>
+                    <li>
+                        <a>Documentación</a>
+                        <ul>
+                            <form name="igualdad" method='POST' action='showDocumentacion.php'>
+                                <li><button type="submit" name="submit" value="submit" id="boton"><a>Interna</a></button></li>
+                                <input type="hidden" name="carpeta" value="docEnergia">
+                                <input type="hidden" name="seccion" value="Internos de Energía">
+                            </form>
+                            <li><a href="https://www.tecnm.mx/sistema_energia.aspx">TecNM</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="FormSolicitud.php">Solicitudes</a></li>
+                    <li><a href="login.html">Administrador</a></li>
+                </ul>
+            </div>
+            <div class="hide-s hide-m l-2">
+                <i class="icon-facebook_circle icon2x right padding"></i>
+            </div>
+        </nav>
+
+        <!--Banner decorativo alusivo al estándar-->
+        <header>
+            <img id="banner2" src="img/bannerEnergia.jpg">
+        </header>
+
+        <section>
+            <!--Sección de objetivos y politicas-->
+            <h4> Sistema de Gestión de Energía </h4>
+            <div id="objetivo">
+                <h5 class="page-header"> Objetivo Energético </h5>
+                <p> Mejorar la eficiencia energética en todas las actividades, mediante los usos y consumos energéticos del TecNM, a través de una cultura de ahorro y uso eficiente de la energía, impulsando la concientización entre el personal, estudiantes y partes interesadas. </p>
+
+                <h5 class="page-header"> Política Energética </h5>
+                <p> El Tecnológico Nacional de México establece el compromiso de orientar todas
+                    las actividades del Proceso Educativo, hacia el respeto del medio ambiente,
+                    mediante la implementación de su Sistema de Gestión de la Energía (SGEn)
+                    basado en la norma ISO 50001:2018, logrando la mejora continua de su
+                    desempeño energético, utilizando como base el uso eficiente de la energía,
+                    asegurando la disponibilidad de la información y de los recursos para alcanzar
+                    los objetivos y metas establecidas, así como cumplir con la legislación aplicable
+                    en materia energética, coadyuvando a ser uno de los pilares fundamentales del
+                    desarrollo sostenido, sustentable y equitativo de la nación </p>
+
+                <h7 class="page-header"> Coordinador General del Programa </h7>
+                <iframe src="infoEnergia.php" name="lista" scrolling="no" border="0" frameborder="0" width="100%" height="40%"> 
+                </iframe>
+            </div>
+
+            <!--Panel de metas y alcance-->
+            <div id="metas">
+                <h6> Metas Energéticas </h6>
+                <ul>
+                    <li type="circle"> 1.- Reducir el consumo energético en un 2%</li>
+                    <li type="circle"> 2.- Reducir el consumo de combustibles en un 2%</li>
+                </ul>
+
+                <h6> Alcance</h6>
+                <p id="alcance">"El alcance del Sistema de Gestión de la Energía (SGEn) aplica a todas las actividades, procesos, productos y/o servicios del Proceso Educativo que se realizan en los Institutos Tecnológicos y Centros del TecNM".
+                </p>
+
+                <h6> Limites</h6>
+                <p id="alcance"> Los límites se definen desde que ingresa el estudiante hasta que se entrega el título de licenciatura y posgrado.
+                </p>
+
+            </div>
+        </section>
+
+    </div>
+
+    <!--Pie de página-->
+    <footer>
+        <!--Panel Logo SEP-->
+        <div id="pie">
+            <div id="img_pie">
+                <img id="sep" src="img/SEP.png" title="DGEST">
+            </div>
+
+            <!--Panel información de contacto-->
+            <div id="texto_pie">
+                <h1>Tecnológico Nacional de México</h1>
+                <h1>Instituto Tecnológico de Ciudad Guzmán</h1>
+                <h2>Avenida Tecnológico #100</h2>
+                <h2>Ciudad Guzmán, Mpio. de Zapotlán el Grande, Jalisco, México</h2>
+                <h3>Teléfono: 01 (341) 575 20 50</h3>
+                <h3>Fax: 01 (341) 575 20 74</h3>
+            </div>
+        </div>
+    </footer>
+</body>
+
+</html>

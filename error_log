@@ -1,0 +1,490 @@
+[03-Jun-2020 21:37:36 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[03-Jun-2020 21:49:34 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[03-Jun-2020 21:51:22 UTC] PHP Warning:  mkdir(): No such file or directory in /home/sigacitc/public_html/sgcitcg/agregarCat.php on line 10
+[03-Jun-2020 21:51:22 UTC] PHP Warning:  mkdir(): No such file or directory in /home/sigacitc/public_html/sgcitcg/agregarCat.php on line 11
+[03-Jun-2020 21:51:22 UTC] PHP Warning:  move_uploaded_file(files/docAmbiental/auditorías/auditorías internas/oficio ENAT-1-2do Bimestre 2020.docx): failed to open stream: No such file or directory in /home/sigacitc/public_html/sgcitcg/agregarCat.php on line 15
+[03-Jun-2020 21:51:22 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php0x74My' to 'files/docAmbiental/auditorías/auditorías internas/oficio ENAT-1-2do Bimestre 2020.docx' in /home/sigacitc/public_html/sgcitcg/agregarCat.php on line 15
+[03-Jun-2020 21:59:23 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[03-Jun-2020 22:00:54 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[03-Jun-2020 22:06:35 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[03-Jun-2020 22:11:12 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[03-Jun-2020 22:12:39 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[03-Jun-2020 22:14:44 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[03-Jun-2020 22:15:11 UTC] PHP Warning:  move_uploaded_file(files/docAmbiental/auditorías/auditorías internas/ENAT_2°BIM20.xlsx): failed to open stream: No such file or directory in /home/sigacitc/public_html/sgcitcg/agregarDocum.php on line 19
+[03-Jun-2020 22:15:11 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpUjAs9g' to 'files/docAmbiental/auditorías/auditorías internas/ENAT_2°BIM20.xlsx' in /home/sigacitc/public_html/sgcitcg/agregarDocum.php on line 19
+[03-Jun-2020 22:16:11 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[03-Jun-2020 22:16:11 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[03-Jun-2020 22:16:59 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[03-Jun-2020 22:16:59 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[03-Jun-2020 22:17:41 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[03-Jun-2020 22:17:41 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[03-Jun-2020 22:18:49 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[03-Jun-2020 22:19:24 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[03-Jun-2020 22:19:24 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[03-Jun-2020 22:19:53 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[03-Jun-2020 22:19:53 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[03-Jun-2020 22:20:16 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[03-Jun-2020 22:20:16 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[03-Jun-2020 22:20:28 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[03-Jun-2020 22:20:28 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[03-Jun-2020 22:20:45 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[03-Jun-2020 22:20:45 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[03-Jun-2020 22:21:37 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[03-Jun-2020 22:21:37 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[03-Jun-2020 22:22:35 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[03-Jun-2020 22:22:35 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[03-Jun-2020 22:23:26 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[03-Jun-2020 22:23:53 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[03-Jun-2020 22:23:53 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[03-Jun-2020 22:24:16 UTC] PHP Warning:  move_uploaded_file(files/docAmbiental/auditorías/auditorías internas/Formato-ENAT-1 Descargado del portal.xlsx): failed to open stream: No such file or directory in /home/sigacitc/public_html/sgcitcg/agregarDocum.php on line 19
+[03-Jun-2020 22:24:16 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpHGCkcM' to 'files/docAmbiental/auditorías/auditorías internas/Formato-ENAT-1 Descargado del portal.xlsx' in /home/sigacitc/public_html/sgcitcg/agregarDocum.php on line 19
+[03-Jun-2020 22:24:22 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[03-Jun-2020 22:24:22 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[03-Jun-2020 22:24:22 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[08-Sep-2020 22:59:38 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoAmbiental.php on line 4
+[08-Sep-2020 23:08:58 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoAmbiental.php on line 4
+[08-Sep-2020 23:10:43 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoAmbiental.php on line 4
+[08-Sep-2020 23:12:43 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/mostrarNoticias.php on line 5
+[08-Sep-2020 23:12:51 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/mostrarNoticias.php on line 5
+[08-Sep-2020 23:14:31 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/mostrarNoticias.php on line 5
+[08-Sep-2020 23:14:40 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/FormSolicitud.php on line 58
+[08-Sep-2020 23:29:59 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoCalidad.php on line 4
+[08-Sep-2020 23:30:08 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 4
+[08-Sep-2020 23:30:23 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/FormSolicitud.php on line 58
+[10-Sep-2020 18:17:20 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoCalidad.php on line 4
+[10-Sep-2020 18:17:23 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoAmbiental.php on line 4
+[10-Sep-2020 18:17:28 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/FormSolicitud.php on line 58
+[10-Sep-2020 18:17:37 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoEnergia.php on line 4
+[10-Sep-2020 18:17:52 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoAmbiental.php on line 4
+[25-Sep-2020 15:00:21 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoCalidad.php on line 4
+[25-Sep-2020 15:00:38 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 4
+[25-Sep-2020 15:00:47 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 4
+[25-Sep-2020 15:00:54 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 4
+[25-Sep-2020 15:01:02 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 4
+[25-Sep-2020 15:02:41 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/FormSolicitud.php on line 58
+[25-Sep-2020 15:02:52 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoAmbiental.php on line 4
+[25-Sep-2020 15:03:00 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 4
+[25-Sep-2020 15:03:06 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 4
+[25-Sep-2020 15:03:44 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/login.php on line 5
+[25-Sep-2020 15:04:00 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/login.php on line 5
+[25-Sep-2020 15:04:23 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoIgualdad.php on line 3
+[25-Sep-2020 15:04:32 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 4
+[28-Sep-2020 05:04:53 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/FormSolicitud.php on line 58
+[28-Sep-2020 05:05:02 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/mostrarNoticias.php on line 5
+[28-Sep-2020 05:05:12 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoCalidad.php on line 4
+[28-Sep-2020 05:05:21 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/mostrarNoticias.php on line 5
+[28-Sep-2020 05:05:28 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 4
+[28-Sep-2020 05:05:35 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoAmbiental.php on line 4
+[28-Sep-2020 05:05:39 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 4
+[28-Sep-2020 05:05:50 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/FormSolicitud.php on line 58
+[28-Sep-2020 05:05:58 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoAmbiental.php on line 4
+[28-Sep-2020 05:06:00 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 4
+[28-Sep-2020 18:28:03 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoCalidad.php on line 4
+[28-Sep-2020 18:28:12 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 4
+[28-Sep-2020 18:29:46 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/login.php on line 5
+[28-Sep-2020 18:30:13 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/login.php on line 5
+[04-Oct-2020 21:17:28 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/login.php on line 5
+[06-Oct-2020 20:04:16 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoCalidad.php on line 4
+[07-Oct-2020 15:20:26 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoCalidad.php on line 4
+[07-Oct-2020 15:20:31 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 4
+[07-Oct-2020 15:20:43 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/FormSolicitud.php on line 58
+[07-Oct-2020 15:21:02 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/mostrarNoticias.php on line 5
+[07-Oct-2020 15:21:15 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/mostrarNoticias.php on line 5
+[02-Nov-2020 05:35:16 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/login.php on line 5
+[02-Nov-2020 05:35:34 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/login.php on line 5
+[02-Nov-2020 05:35:41 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/login.php on line 5
+[02-Nov-2020 05:35:54 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/documAdmin.php on line 4
+[02-Nov-2020 05:36:01 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/documAdmin.php on line 4
+[02-Nov-2020 05:36:13 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/documAdmin.php on line 4
+[02-Nov-2020 05:36:15 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/documAdmin.php on line 4
+[02-Nov-2020 16:15:54 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoCalidad.php on line 4
+[02-Nov-2020 16:16:16 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/mostrarNoticias.php on line 5
+[03-Nov-2020 19:47:01 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoCalidad.php on line 4
+[03-Nov-2020 19:47:23 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoCalidad.php on line 4
+[03-Nov-2020 19:47:27 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 4
+[03-Nov-2020 19:50:15 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 4
+[03-Nov-2020 19:50:24 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoCalidad.php on line 4
+[03-Nov-2020 19:55:18 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/FormSolicitud.php on line 58
+[03-Nov-2020 19:55:24 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/mostrarNoticias.php on line 5
+[03-Nov-2020 19:55:33 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoCalidad.php on line 4
+[03-Nov-2020 19:55:39 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoEnergia.php on line 4
+[03-Nov-2020 19:55:46 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoAmbiental.php on line 4
+[03-Nov-2020 19:55:51 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoSeguridad.php on line 4
+[03-Nov-2020 19:55:56 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoIgualdad.php on line 3
+[04-Nov-2020 15:53:34 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/mostrarNoticias.php on line 5
+[04-Nov-2020 15:53:38 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/FormSolicitud.php on line 58
+[04-Nov-2020 15:53:47 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/FormSolicitud.php on line 58
+[04-Nov-2020 18:43:45 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoCalidad.php on line 4
+[04-Nov-2020 23:04:22 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/mostrarNoticias.php on line 5
+[04-Nov-2020 23:16:08 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoAmbiental.php on line 4
+[04-Nov-2020 23:16:15 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoCalidad.php on line 4
+[04-Nov-2020 23:16:25 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoAmbiental.php on line 4
+[04-Nov-2020 23:16:39 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoCalidad.php on line 4
+[04-Nov-2020 23:16:44 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoEnergia.php on line 4
+[04-Nov-2020 23:16:49 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoSeguridad.php on line 4
+[04-Nov-2020 23:16:52 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoSocial.php on line 4
+[04-Nov-2020 23:16:55 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoIgualdad.php on line 3
+[04-Nov-2020 23:16:59 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 4
+[04-Nov-2020 23:17:07 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 4
+[04-Nov-2020 23:18:13 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/login.php on line 5
+[04-Nov-2020 23:27:02 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/bd.php on line 2
+[04-Nov-2020 23:27:07 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/bd.php on line 2
+[05-Nov-2020 00:04:17 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoCalidad.php on line 4
+[05-Nov-2020 00:07:10 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 4
+[05-Nov-2020 00:07:22 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoCalidad.php on line 4
+[05-Nov-2020 00:07:33 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 4
+[05-Nov-2020 00:07:57 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/sigacitc/public_html/sgcitcg/infoAmbiental.php on line 4
+[05-Nov-2020 01:47:27 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[05-Nov-2020 01:48:28 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[05-Nov-2020 01:49:51 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[05-Nov-2020 01:49:51 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[05-Nov-2020 15:10:05 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[05-Nov-2020 15:53:55 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[05-Nov-2020 15:55:17 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[05-Nov-2020 15:55:17 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[10-Nov-2020 23:56:36 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[11-Nov-2020 00:02:19 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[11-Nov-2020 00:03:48 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[11-Nov-2020 00:10:40 UTC] PHP Warning:  mkdir(): File exists in /home/sigacitc/public_html/sgcitcg/agregarCat.php on line 10
+[11-Nov-2020 00:10:40 UTC] PHP Warning:  mkdir(): File exists in /home/sigacitc/public_html/sgcitcg/agregarCat.php on line 11
+[11-Nov-2020 00:11:20 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 00:11:20 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 19:50:26 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[11-Nov-2020 19:54:40 UTC] PHP Warning:  mkdir(): File exists in /home/sigacitc/public_html/sgcitcg/agregarCat.php on line 10
+[11-Nov-2020 19:55:03 UTC] PHP Warning:  mkdir(): File exists in /home/sigacitc/public_html/sgcitcg/agregarCat.php on line 10
+[11-Nov-2020 19:55:03 UTC] PHP Warning:  mkdir(): File exists in /home/sigacitc/public_html/sgcitcg/agregarCat.php on line 11
+[11-Nov-2020 19:55:05 UTC] PHP Warning:  mkdir(): File exists in /home/sigacitc/public_html/sgcitcg/agregarCat.php on line 10
+[11-Nov-2020 19:55:05 UTC] PHP Warning:  mkdir(): File exists in /home/sigacitc/public_html/sgcitcg/agregarCat.php on line 11
+[11-Nov-2020 19:55:44 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 19:55:44 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 19:55:44 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 19:57:43 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 19:57:43 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 19:57:43 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 19:57:43 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 19:58:14 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 19:58:14 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 19:58:14 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 19:58:14 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:06:00 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:06:00 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:06:00 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:06:00 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:08:25 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[11-Nov-2020 20:08:35 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:08:35 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:08:35 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:08:35 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:12:23 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:12:23 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:12:23 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:12:23 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:20:01 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:20:01 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:20:01 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:20:01 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:25:23 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:26:03 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:26:12 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:26:47 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:27:58 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:27:58 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:28:53 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:28:53 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:28:53 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:31:27 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:31:27 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:31:27 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:33:43 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:38:53 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:39:54 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:40:03 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:42:56 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:42:56 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:44:07 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:44:07 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 20:44:37 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[11-Nov-2020 20:44:37 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[11-Nov-2020 20:47:09 UTC] PHP Notice:  Undefined index: carpeta in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 9
+[11-Nov-2020 20:47:09 UTC] PHP Notice:  Undefined index: seccion in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 10
+[11-Nov-2020 20:47:39 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[11-Nov-2020 20:47:39 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[11-Nov-2020 20:47:57 UTC] PHP Notice:  Undefined index: carpeta in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 9
+[11-Nov-2020 20:47:57 UTC] PHP Notice:  Undefined index: seccion in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 10
+[11-Nov-2020 20:50:56 UTC] PHP Notice:  Undefined index: carpeta in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 9
+[11-Nov-2020 20:50:56 UTC] PHP Notice:  Undefined index: seccion in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 10
+[11-Nov-2020 23:42:34 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[11-Nov-2020 23:45:20 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[11-Nov-2020 23:46:28 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[11-Nov-2020 23:46:28 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[12-Nov-2020 00:14:17 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[12-Nov-2020 00:23:51 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[12-Nov-2020 00:24:47 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[12-Nov-2020 00:24:47 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Nov-2020 01:29:07 UTC] PHP Notice:  Undefined index: carpeta in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 9
+[24-Nov-2020 01:29:07 UTC] PHP Notice:  Undefined index: seccion in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 10
+[08-Dec-2020 21:43:49 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[08-Dec-2020 21:43:49 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[24-Feb-2021 01:40:36 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[24-Feb-2021 01:40:36 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[24-Feb-2021 19:04:22 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[24-Feb-2021 19:20:56 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[24-Feb-2021 19:27:48 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[24-Feb-2021 19:31:27 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Feb-2021 19:32:12 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Feb-2021 19:32:12 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Feb-2021 19:32:47 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Feb-2021 19:32:47 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Feb-2021 19:33:06 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Feb-2021 19:33:06 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Feb-2021 19:33:13 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Feb-2021 19:33:13 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Feb-2021 19:34:20 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Feb-2021 19:34:20 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Feb-2021 19:35:00 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Feb-2021 19:35:00 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Feb-2021 19:41:04 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[24-Feb-2021 19:43:53 UTC] PHP Notice:  Undefined index: carpeta in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 9
+[24-Feb-2021 19:43:53 UTC] PHP Notice:  Undefined index: seccion in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 10
+[24-Feb-2021 19:44:22 UTC] PHP Notice:  Undefined index: carpeta in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 9
+[24-Feb-2021 19:44:22 UTC] PHP Notice:  Undefined index: seccion in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 10
+[24-Feb-2021 19:45:18 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[24-Feb-2021 19:45:51 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Feb-2021 19:46:12 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Feb-2021 19:46:16 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[03-Mar-2021 21:13:54 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[03-Mar-2021 21:13:54 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[03-Mar-2021 21:14:20 UTC] PHP Notice:  Undefined index: carpeta in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 9
+[03-Mar-2021 21:14:20 UTC] PHP Notice:  Undefined index: seccion in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 10
+[03-Mar-2021 21:14:26 UTC] PHP Notice:  Undefined index: carpeta in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 9
+[03-Mar-2021 21:14:26 UTC] PHP Notice:  Undefined index: seccion in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 10
+[03-Mar-2021 21:14:43 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[03-Mar-2021 21:14:43 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[03-Mar-2021 21:15:15 UTC] PHP Notice:  Undefined index: carpeta in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 9
+[03-Mar-2021 21:15:15 UTC] PHP Notice:  Undefined index: seccion in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 10
+[04-Mar-2021 17:59:49 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[04-Mar-2021 17:59:49 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[04-Mar-2021 19:56:35 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[04-Mar-2021 19:56:35 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[04-Mar-2021 20:21:09 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[04-Mar-2021 20:21:09 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[05-Mar-2021 01:06:52 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[05-Mar-2021 01:06:52 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[05-Mar-2021 01:07:57 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[05-Mar-2021 01:10:23 UTC] PHP Notice:  Undefined index: dep in /home/sigacitc/public_html/sgcitcg/modificarDepartamento.php on line 11
+[05-Mar-2021 01:10:23 UTC] PHP Notice:  Undefined index: jefe in /home/sigacitc/public_html/sgcitcg/modificarDepartamento.php on line 12
+[05-Mar-2021 01:10:23 UTC] PHP Notice:  Undefined index: ext in /home/sigacitc/public_html/sgcitcg/modificarDepartamento.php on line 13
+[05-Mar-2021 01:10:23 UTC] PHP Notice:  Undefined index: email in /home/sigacitc/public_html/sgcitcg/modificarDepartamento.php on line 14
+[05-Mar-2021 01:10:23 UTC] PHP Notice:  Undefined index: ubi in /home/sigacitc/public_html/sgcitcg/modificarDepartamento.php on line 15
+[05-Mar-2021 01:13:40 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[05-Mar-2021 01:13:40 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[05-Mar-2021 01:14:38 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[05-Mar-2021 01:14:38 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[05-Mar-2021 01:15:39 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[05-Mar-2021 01:16:33 UTC] PHP Notice:  Undefined index: dep in /home/sigacitc/public_html/sgcitcg/modificarDepartamento.php on line 11
+[05-Mar-2021 01:16:33 UTC] PHP Notice:  Undefined index: jefe in /home/sigacitc/public_html/sgcitcg/modificarDepartamento.php on line 12
+[05-Mar-2021 01:16:33 UTC] PHP Notice:  Undefined index: ext in /home/sigacitc/public_html/sgcitcg/modificarDepartamento.php on line 13
+[05-Mar-2021 01:16:33 UTC] PHP Notice:  Undefined index: email in /home/sigacitc/public_html/sgcitcg/modificarDepartamento.php on line 14
+[05-Mar-2021 01:16:33 UTC] PHP Notice:  Undefined index: ubi in /home/sigacitc/public_html/sgcitcg/modificarDepartamento.php on line 15
+[11-Mar-2021 22:02:01 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[11-Mar-2021 22:02:01 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[23-Mar-2021 17:44:43 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[23-Mar-2021 17:44:43 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[24-Mar-2021 18:10:00 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[24-Mar-2021 18:10:00 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[24-Mar-2021 20:24:18 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[24-Mar-2021 20:24:18 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[26-Mar-2021 06:40:44 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[26-Mar-2021 06:40:44 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[26-Mar-2021 06:43:47 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[26-Mar-2021 06:43:47 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[26-Mar-2021 06:44:32 UTC] PHP Notice:  Undefined index: carpeta in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 9
+[26-Mar-2021 06:44:32 UTC] PHP Notice:  Undefined index: seccion in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 10
+[08-Apr-2021 20:00:53 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[08-Apr-2021 20:04:15 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[08-Apr-2021 20:04:15 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[08-Apr-2021 20:06:40 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[23-Apr-2021 14:23:41 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[23-Apr-2021 14:23:41 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[27-Apr-2021 19:54:15 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[27-Apr-2021 21:57:15 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[27-Apr-2021 21:57:40 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[27-Apr-2021 21:58:41 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[27-Apr-2021 21:58:57 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[27-Apr-2021 21:59:10 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[19-May-2021 22:14:04 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[19-May-2021 22:14:04 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[21-May-2021 18:50:07 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[21-May-2021 18:50:07 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[25-May-2021 15:28:05 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[25-May-2021 15:28:05 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[25-May-2021 15:29:28 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[31-May-2021 03:09:44 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[31-May-2021 03:09:44 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[31-May-2021 03:09:44 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[18-Jul-2021 08:02:35 UTC] PHP Notice:  Undefined index: carpeta in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 9
+[18-Jul-2021 08:02:35 UTC] PHP Notice:  Undefined index: seccion in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 10
+[20-Jul-2021 16:58:36 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[20-Jul-2021 16:58:36 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[26-Jul-2021 12:27:14 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[26-Jul-2021 12:27:14 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[26-Jul-2021 12:29:40 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[26-Jul-2021 12:29:40 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[27-Jul-2021 18:25:16 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[27-Jul-2021 18:25:16 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[04-Aug-2021 18:40:20 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[04-Aug-2021 18:40:20 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[04-Aug-2021 18:41:35 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[04-Aug-2021 18:41:35 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[06-Aug-2021 22:56:26 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[06-Aug-2021 22:56:26 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[06-Aug-2021 22:56:47 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[06-Aug-2021 22:56:47 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[06-Aug-2021 23:10:29 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[06-Aug-2021 23:10:29 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[06-Aug-2021 23:12:35 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[06-Aug-2021 23:12:35 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[09-Aug-2021 11:50:55 UTC] PHP Notice:  Undefined index: carpeta in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 9
+[09-Aug-2021 11:50:55 UTC] PHP Notice:  Undefined index: seccion in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 10
+[09-Aug-2021 23:58:49 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[09-Aug-2021 23:58:49 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[11-Aug-2021 23:28:19 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[11-Aug-2021 23:28:19 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[12-Aug-2021 16:53:19 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[12-Aug-2021 16:53:19 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[12-Aug-2021 16:53:43 UTC] PHP Notice:  Undefined index: carpeta in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 9
+[12-Aug-2021 16:53:43 UTC] PHP Notice:  Undefined index: seccion in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 10
+[12-Aug-2021 23:42:05 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[12-Aug-2021 23:42:05 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[12-Aug-2021 23:42:17 UTC] PHP Notice:  Undefined index: carpeta in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 9
+[12-Aug-2021 23:42:17 UTC] PHP Notice:  Undefined index: seccion in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 10
+[12-Aug-2021 23:43:20 UTC] PHP Notice:  Undefined index: carpeta in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 9
+[12-Aug-2021 23:43:20 UTC] PHP Notice:  Undefined index: seccion in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 10
+[13-Aug-2021 16:13:34 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[13-Aug-2021 16:13:34 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[15-Aug-2021 05:19:00 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[15-Aug-2021 05:19:00 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[16-Aug-2021 04:30:34 UTC] PHP Notice:  Undefined index: carpeta in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 9
+[16-Aug-2021 04:30:34 UTC] PHP Notice:  Undefined index: seccion in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 10
+[16-Aug-2021 04:33:22 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[16-Aug-2021 04:33:22 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[16-Aug-2021 04:33:51 UTC] PHP Notice:  Undefined index: carpeta in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 9
+[16-Aug-2021 04:33:51 UTC] PHP Notice:  Undefined index: seccion in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 10
+[18-Aug-2021 14:57:41 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[18-Aug-2021 14:57:41 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[18-Aug-2021 17:25:17 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[18-Aug-2021 17:25:17 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[24-Aug-2021 00:03:24 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[24-Aug-2021 00:03:24 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[24-Aug-2021 06:08:23 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[24-Aug-2021 06:08:23 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[24-Aug-2021 15:09:41 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 83
+[24-Aug-2021 15:09:41 UTC] PHP Notice:  Undefined variable: colorbg in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 98
+[24-Aug-2021 15:42:03 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[24-Aug-2021 15:43:33 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 15:43:33 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 15:44:25 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 15:44:25 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 15:46:50 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[24-Aug-2021 15:50:52 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[24-Aug-2021 16:07:39 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:09:12 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:09:12 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:09:54 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:09:54 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:09:54 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:10:35 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:10:35 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:10:35 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:10:35 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:11:47 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:11:47 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:11:47 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:11:47 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:11:47 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:12:44 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:12:44 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:12:44 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:12:44 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:12:44 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:14:13 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:14:13 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:14:13 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:14:13 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:14:13 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:14:13 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:15:05 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:15:05 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:15:05 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:15:05 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:15:05 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:15:05 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:16:46 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:16:46 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:16:46 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:16:46 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:16:46 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:16:46 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:27:23 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:27:23 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:27:23 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:27:23 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:27:23 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:27:23 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:28:31 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:28:31 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:28:31 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:28:31 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:28:31 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:28:31 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:29:50 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:29:50 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:29:50 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:29:50 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:29:50 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:29:50 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:31:20 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:31:20 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:31:20 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:31:20 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:31:20 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:31:20 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[24-Aug-2021 16:31:20 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[25-Aug-2021 15:29:52 UTC] PHP Notice:  Undefined index: carpeta in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 9
+[25-Aug-2021 15:29:52 UTC] PHP Notice:  Undefined index: seccion in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 10
+[25-Aug-2021 15:31:20 UTC] PHP Notice:  Undefined index: carpeta in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 9
+[25-Aug-2021 15:31:20 UTC] PHP Notice:  Undefined index: seccion in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 10
+[25-Aug-2021 21:25:14 UTC] PHP Notice:  Undefined index: carpeta in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 9
+[25-Aug-2021 21:25:14 UTC] PHP Notice:  Undefined index: seccion in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 10
+[30-Aug-2021 03:19:21 UTC] PHP Notice:  Undefined index: carpeta in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 9
+[30-Aug-2021 03:19:21 UTC] PHP Notice:  Undefined index: seccion in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 10
+[30-Aug-2021 22:54:21 UTC] PHP Notice:  Undefined index: carpeta in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 9
+[30-Aug-2021 22:54:21 UTC] PHP Notice:  Undefined index: seccion in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 10
+[31-Aug-2021 07:22:57 UTC] PHP Notice:  Undefined index: carpeta in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 9
+[31-Aug-2021 07:22:57 UTC] PHP Notice:  Undefined index: seccion in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 10
+[17-Sep-2021 20:36:49 UTC] PHP Notice:  Undefined index: carpeta in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 9
+[17-Sep-2021 20:36:49 UTC] PHP Notice:  Undefined index: seccion in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 10
+[29-Oct-2021 16:48:57 UTC] PHP Notice:  Undefined index: carpeta in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 9
+[29-Oct-2021 16:48:57 UTC] PHP Notice:  Undefined index: seccion in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 10
+[10-Nov-2021 22:41:18 UTC] PHP Notice:  Undefined index: carpeta in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 9
+[10-Nov-2021 22:41:18 UTC] PHP Notice:  Undefined index: seccion in /home/sigacitc/public_html/sgcitcg/showDocumentacion.php on line 10
+[18-Nov-2021 19:07:55 UTC] PHP Notice:  Undefined variable: user in /home/sigacitc/public_html/sgcitcg/login.php on line 29
+[18-Nov-2021 19:12:04 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[18-Nov-2021 19:12:53 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[18-Nov-2021 19:19:44 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[18-Nov-2021 19:19:44 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[18-Nov-2021 19:19:44 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[18-Nov-2021 19:20:17 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[18-Nov-2021 19:20:17 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[18-Nov-2021 19:20:17 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[18-Nov-2021 19:21:15 UTC] PHP Warning:  move_uploaded_file(files/docAmbiental/auditorías/auditorías internas/oficio ENAT-1-2do Bimestre 2020 (1).docx): failed to open stream: No such file or directory in /home/sigacitc/public_html/sgcitcg/cambiarArchivo.php on line 18
+[18-Nov-2021 19:21:15 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpAnFNYo' to 'files/docAmbiental/auditorías/auditorías internas/oficio ENAT-1-2do Bimestre 2020 (1).docx' in /home/sigacitc/public_html/sgcitcg/cambiarArchivo.php on line 18
+[18-Nov-2021 19:21:19 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[18-Nov-2021 19:21:19 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[18-Nov-2021 19:21:19 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[18-Nov-2021 19:21:41 UTC] PHP Warning:  move_uploaded_file(files/docAmbiental/auditorías/auditorías internas/oficio ENAT-1-2do Bimestre 2020 (1).docx): failed to open stream: No such file or directory in /home/sigacitc/public_html/sgcitcg/agregarDocum.php on line 19
+[18-Nov-2021 19:21:41 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpIlRw5o' to 'files/docAmbiental/auditorías/auditorías internas/oficio ENAT-1-2do Bimestre 2020 (1).docx' in /home/sigacitc/public_html/sgcitcg/agregarDocum.php on line 19
+[18-Nov-2021 19:21:44 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[18-Nov-2021 19:21:44 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[18-Nov-2021 19:21:44 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112
+[18-Nov-2021 19:21:44 UTC] PHP Notice:  Undefined variable: rutaArchivo in /home/sigacitc/public_html/sgcitcg/MostrarDoc.php on line 112

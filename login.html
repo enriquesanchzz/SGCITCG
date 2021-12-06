@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<!--Página para realizar solicitudes de mantenimiento-->
+<html lang="es">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> Estandares de Calidad del ITCG </title>
+        <link rel="stylesheet" href="css/styleLogin.css">
+        <link rel="icon" type="image/png" href="img/logo%20itcg.png">
+    </head>
+    <body>
+        
+        <!--Banner TNM-->
+        <header>
+            <img id="banner" src="img/banner.jpg">
+        </header>
+        
+        <div id=cuerpo>
+        <!--Menú de navegación-->
+        <nav class="margin-bottom">
+           <p class="nav-text">Custom menu text</p>
+               <div class="top-nav s-12 l-10">
+                 <ul>
+                     <li>
+                         <a href="index.html">Sistemas de Gestión</a>
+                         <ul>
+                            <li><a href="9001.html">Calidad</a></li>
+                            <li><a href="14001.html">Ambiental</a></li>
+                            <li><a href="50001.html">Energía</a></li>
+                            <li><a href="45001.html">Salud y Seguridad</a></li>
+                            <li><a href="26000.html">Responsabilidad Social</a></li>
+                            <li><a href="igualdad.html">Igualdad y no discriminación</a></li>
+                            <li><a href="https://www.tecnm.mx/informacion/normateca-dgest">Normateca</a></li>
+                         </ul>
+                    </li>
+                     <li><a href="mostrarNoticias.php">Noticias</a></li>
+                     <li><a href="FormSolicitud.php">Solicitudes</a></li>
+                     <li><a href="login.html">Administrador</a></li>
+                  </ul>
+               </div>
+               <div class="hide-s hide-m l-2">
+                  <i class="icon-facebook_circle icon2x right padding"></i>
+               </div>
+        </nav>
+        
+        
+        <section>
+            <!--Forma donde se recolectan los datos de la solicitud-->
+                <div class="login">
+                    <div class="row">
+                    <form action="login.php" method="post">
+					<span class="login100-form-title">
+						Login Administrador
+					</span>
+
+					<div class="wrap-input100 validate-input" data-validate = "Valid email is required: ex@abc.xyz">
+						<input class="input100" type="text" name="user" id="user" placeholder="Usuario">
+						<span class="focus-input100"></span>
+						<span class="symbol-input100">
+							<i class="fa fa-envelope" aria-hidden="true"></i>
+						</span>
+					</div>
+
+					<div class="wrap-input100 validate-input" data-validate = "Password is required">
+						<input class="input100" type="password" name="password" id="password" placeholder="Contraseña">
+						<span class="focus-input100"></span>
+						<span class="symbol-input100">
+							<i class="fa fa-lock" aria-hidden="true"></i>
+						</span>
+					</div>
+					
+					<div class="container-login100-form-btn">
+						<button class="login100-form-btn">
+							Entrar
+						</button>
+					</div>
+
+				</form>
+                    </div>
+                </div>
+                
+                
+                <div class="column">
+                    <div class="row">
+                    
+                    </div>
+                </div>
+        </section>
+        
+        </div>
+        
+        <!--Pie de página-->
+        <footer>
+            <div id="pie">
+                <!--Panel logo SEP-->
+                <div id="img_pie" >
+                <img id="sep" src="img/SEP.png" title="DGEST">
+                </div>
+
+                <!--Panel información de contacto-->
+                <div id="texto_pie">
+                <h1>Tecnológico Nacional de México</h1>
+                <h1>Instituto Tecnológico de Ciudad Guzmán</h1>
+                <h2>Avenida Tecnológico #100</h2>
+                <h2>Ciudad Guzmán, Mpio. de Zapotlán el Grande, Jalisco, México</h2>
+                <h3>Teléfono: 01 (341) 575 20 50</h3>
+                <h3>Fax: 01 (341) 575 20 74</h3>
+                </div>
+            </div>
+        </footer>
+    </body>
+</html>
+

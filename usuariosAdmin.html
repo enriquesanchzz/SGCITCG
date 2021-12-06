@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<!-- Página de administracion de usuarios adminsistradores-->
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Administración - Usuarios Administradores</title>
+    <link rel="stylesheet" href="css/styleContactoAdmin.css">
+    <link rel="icon" type="image/png" href="img/logo%20itcg.png">
+</head>
+
+<body>
+    <!-- Banner del TNM-->
+    <header>
+        <img id="banner" src="img/banner.jpg">
+    </header>
+    <div id=cuerpo>
+        <!-- Menu de navegación-->
+        <nav class="margin-bottom">
+            <p class="nav-text">Custom menu text</p>
+            <div class="top-nav s-12 l-10">
+                <ul>
+                    <li><a href="indexAdmin.html">Inicio</a></li>
+                    <li><a href="noticiasAdmin.html">Noticias</a></li>
+                    <li>
+                        <a href="documAdmin.php">Documentación</a>
+                    </li>
+                    <li><a href="usuariosAdmin.html">Usuarios</a></li>
+                    <li><a href="contactoAdmin.html">Departamentos</a></li>
+                    <li><a href="logout.php">Log out</a></li>
+                </ul>
+            </div>
+            <div class="hide-s hide-m l-2">
+                <i class="icon-facebook_circle icon2x right padding"></i>
+            </div>
+        </nav>
+
+
+        <!--Seccion con los iconos de las funciones-->
+        <section>
+
+            <script type="text/javascript">
+                function url(cUrl) {
+                    var a = document.getElementById('eventos');
+                    a.src = cUrl;
+                }
+            </script>
+
+
+
+            <div id="opciones">
+                <input type="image" id="std" onclick="url('eliminarUsuarioAdmin.html');" src="img/erase.png" />
+                <h4>Eliminar usuario administrador </h4>
+                <input type="image" id="std" onclick="url('agregarUsuarioAdmin.html');" src="img/add.png" />
+                <h4>Agregar usuario administrador</h4>
+            </div>
+
+            <!--Panel de valores y alcance-->
+            <div id="tabla">
+                <iframe src="vistaUsuarios.php" name="lista" id="lista" scrolling="auto" border="1" frameborder="1" width="100%" height="40%"> 
+                </iframe>
+
+
+                <iframe src="" id="eventos" name="eventos" scrolling="auto" border="1" frameborder="1" width="100%" height="60%"> 
+                </iframe>
+            </div>
+        </section>
+
+    </div>
+
+    <!--Pie de pagina-->
+    <footer>
+        <!--Panel logo SEP-->
+        <div id="pie">
+            <div id="img_pie">
+                <img id="sep" src="img/SEP.png" title="DGEST">
+            </div>
+
+            <!--Panel informacion de contacto-->
+            <div id="texto_pie">
+                <h1>Tecnológico Nacional de México</h1>
+                <h1>Instituto Tecnológico de Ciudad Guzmán</h1>
+                <h2>Avenida Tecnológico #100</h2>
+                <h2>Ciudad Guzmán, Mpio. de Zapotlán el Grande, Jalisco, México</h2>
+                <h3>Teléfono: 01 (341) 575 20 50</h3>
+            </div>
+        </div>
+    </footer>
+</body>
+
+</html>

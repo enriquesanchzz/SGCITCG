@@ -1,0 +1,160 @@
+﻿<!DOCTYPE html>
+<!--Página de información estandar 9001-->
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> 9001:2015 Norma de gestión de la calidad </title>
+    <link rel="stylesheet" href="css/styleCalidad.css">
+    <link rel="icon" type="image/png" href="img/logo%20itcg.png">
+</head>
+
+<body>
+    <!--Banner TNM-->
+    <header>
+        <img id="banner" src="img/banner.jpg">
+    </header>
+    <div id=cuerpo>
+        <!--Menú de navegación-->
+        <nav class="margin-bottom">
+            <p class="nav-text">Custom menu text</p>
+            <div class="top-nav s-12 l-10">
+                <ul>
+                    <li>
+                        <a href="index.html">Sistemas de Gestión</a>
+                        <ul>
+                            <li><a href="9001.html">Calidad</a></li>
+                            <li><a href="14001.html">Ambiental</a></li>
+                            <li><a href="50001.html">Energía</a></li>
+                            <li><a href="45001.html">Salud y Seguridad</a></li>
+                            <li><a href="26000.html">Responsabilidad Social</a></li>
+                            <li><a href="igualdad.html">Igualdad y no discriminación</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="mostrarNoticias.php">Noticias</a></li>
+                    <li>
+                        <a>Documentación</a>
+                        <ul>
+                            <form name="igualdad" method='POST' action='showDocumentacion.php'>
+                                <li><button type="submit" name="submit" value="submit" id="boton"><a>Sistema de Gestión de Calidad</a></button></li>
+                                <input type="hidden" name="carpeta" value="docSGC">
+                                <input type="hidden" name="seccion" value="Sistema de Gestión de Calidad">
+                            </form>
+                            <form name="igualdad" method='POST' action='showDocumentacion.php'>
+                                <li><button type="submit" name="submit" value="submit" id="boton"><a>Interna</a></button></li>
+                                <input type="hidden" name="carpeta" value="docCalidad">
+                                <input type="hidden" name="seccion" value="Internos de Calidad">
+                            </form>
+                            <li><a href="https://www.tecnm.mx/Enconstruccion.aspx">TecNM</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="FormSolicitud.php">Solicitudes</a></li>
+                    <li><a href="login.html">Administrador</a></li>
+                </ul>
+            </div>
+            <div class="hide-s hide-m l-2">
+                <i class="icon-facebook_circle icon2x right padding"></i>
+            </div>
+        </nav>
+
+        <!--Banner decorativo alusivo al estándar-->
+        <header>
+            <img id="banner2" src="img/bannerCalidad.jpg">
+        </header>
+
+        <!--Seccion de información-->
+        <section>
+            <h4> Gestión de Calidad </h4>
+            <div id="objetivo">
+                <h5 class="page-header"> Objetivo General </h5>
+                <p> Proporcionar el Servicio Educativo de Calidad, orientado a la satisfacción de sus clientes.</p>
+
+                <h5 class="page-header"> Política de Calidad</h5>
+                <p> El Instituto Tecnológico de Ciudad Guzmán, establece el compromiso de implementar sus procesos, orientados a la atención de los requerimientos del contexto y de los riesgos identificados, para la satisfacción de estudiantes y partes interesadas,
+                    cumpliendo con sus requisitos aplicables, mediante la eficacia y mejora de su SGC, sustentado en la Planeación Estratégica, Liderazgo y la Calidad del Proceso Educativo, conforme a la norma NMX-CC-9001-IMNC-2015/ISO 9001:2015.</p>
+
+                <!--Listado de objetivos-->
+                <h5 class="page-header"> Objetivos de Procesos Estrategicos</h5>
+                <ul>
+                    <li id="estrategico" type="circle"> Académico </li>
+                    <p id="obj"> Gestionar los planes y programas de estudio para la formación profesional del estudiante </p>
+                    <li id="estrategico" type="circle"> Vinculación </li>
+                    <p id="obj"> Contribuir a la formación integral del estudiante a través de su vinculación con los sectores productivo y de gobierno, la sociedad, la cultura y el deporte </p>
+                    <li id="estrategico" type="circle"> Planeación </li>
+                    <p id="obj"> Realizar la planeación, programación, presupuestación, seguimiento y evaluación de las acciones para cumplir con los requisitos del servicio educativo </p>
+                    <li id="estrategico" type="circle"> Administración de Recursos </li>
+                    <p id="obj"> Administra los recursos humanos, financieros y materiales del Instituto Tecnológico, así como la prestación de los servicios generales, de cómputo y mantenimiento de infraestructura, para lograr la conformidad con los requisitos del
+                        servicio educativo </p>
+                    <li id="estrategico" type="circle"> Calidad </li>
+                    <p id="obj"> Medir, analizar y promover mejoras en los procesos del Sistema de Gestión de la Calidad, para lograr la satisfacción del cliente </p>
+                </ul>
+
+                <img id="certificado" src="img/Certificado%209001.jpg">
+
+                <h7 class="page-header"> Coordinador General del Programa de Innovación y Calidad </h7>
+                <iframe src="infoCalidad.php" name="lista" scrolling="no" border="0" frameborder="0" width="100%" height="40%"> 
+                </iframe>
+
+            </div>
+
+            <!--Panel de valores y alcance-->
+            <div id="valores">
+                <h6> Valores </h6>
+                <ul>
+                    <li type="circle"> Interés público</li>
+                    <li type="circle"> Respeto</li>
+                    <li type="circle"> Respeto a los derechos humanos</li>
+                    <li type="circle"> Igualdad y no descriminación</li>
+                    <li type="circle"> Equidad de genero</li>
+                    <li type="circle"> Entorno cultural y ecológico</li>
+                    <li type="circle"> Integridad</li>
+                    <li type="circle"> Cooperación</li>
+                    <li type="circle"> Liderazgo</li>
+                    <li type="circle"> Transparencia</li>
+                    <li type="circle">Rendición de cuentas</li>
+                </ul>
+
+                <h6> Alcance</h6>
+                <p id="alcance"> Proceso Educativo que comprende desde la inscripción hasta la entrega del Titulo en las siguientes carreras de nivel licenciatura:
+                </p>
+                <ul>
+                    <li>Ing. Ambiental</li>
+                    <li>Arquitectura</li>
+                    <li>Contador Público</li>
+                    <li>Ing. Eléctrica</li>
+                    <li>Ing. Electrónica</li>
+                    <li> Ing. en Gestión Empresarial</li>
+                    <li>Ing. en Sistemas Computacionales</li>
+                    <li>Ing. Industrial</li>
+                    <li>Ing. Informática</li>
+                    <li>Ing. Mecánica</li>
+                </ul>
+
+            </div>
+        </section>
+
+    </div>
+
+    <!--Pie de página-->
+    <footer>
+        <!--Panel logo SEP-->
+        <div id="pie">
+            <div id="img_pie">
+                <img id="sep" src="img/SEP.png" title="DGEST">
+            </div>
+
+            <!--Panel informacion de contacto-->
+            <div id="texto_pie">
+                <h1>Tecnológico Nacional de México</h1>
+                <h1>Instituto Tecnológico de Ciudad Guzmán</h1>
+                <h2>Avenida Tecnológico #100</h2>
+                <h2>Ciudad Guzmán, Mpio. de Zapotlán el Grande, Jalisco, México</h2>
+                <h3>Teléfono: 01 (341) 575 20 50</h3>
+                <h3>Fax: 01 (341) 575 20 74</h3>
+            </div>
+        </div>
+    </footer>
+</body>
+
+</html>

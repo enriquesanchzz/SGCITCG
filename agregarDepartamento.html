@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<!--Página que agrega la información de los departamentos-->
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <title>Agregar información de contacto del departamento</title>
+</head>
+
+<body>
+    <header>
+        <h1>Agregar información de contacto del departamento</h1>
+    </header>
+
+    <form action="agregarDepartamento.php" method="post">
+
+        <hr />
+        <h3>Agregar información de contacto del departamento</h3>
+
+        <label>Departamento</label>
+        <br/>
+        <input type="text" REQUIRED name="departamento" id="departamento">
+        <br/>
+
+        <label>Jefe del departamento</label>
+        <br/>
+        <input type="text" REQUIRED name="jefe" id="jefe">
+        <br/>
+
+        <label>Extensión</label>
+        <br/>
+        <input type="text" REQUIRED name="extension" id="extension">
+        <br/>
+
+        <label>Email</label>
+        <br/>
+        <input type="email" REQUIRED name="email" id="email">
+        <br/>
+
+        <label>Ubicación</label>
+        <br/>
+        <input type="text" REQUIRED name="ubicacion" id="ubicacion">
+
+        <br/><br/>
+        <input type="submit" name="submit" value="agregar">
+    </form>
+</body>
+
+</html>
